@@ -1,22 +1,28 @@
 <h1 align="center">Hi 👋, I'm Navneet Agarwal</h1>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawalnavneet&label=Profile%20views&color=0e75b6&style=flat" alt="agrawalnavneet" /> </p>
+<p <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> </p>
 
 - 🔭 I’m currently working on **freelancerpro**
 
+- 🌱 I’m currently learning **MERN Stack and Data Structure and Algorithms**
+
+
 - 👨‍💻 All of my projects are available at [https://navneetagarwalp.netlify.app/](https://navneetagarwalp.netlify.app/)
+
+- 💬 Ask me about **React, Node.js, JavaScript, Java, and DSA**
 
 - 📫 How to reach me **agrawalnavneet960@gmail.com**
 
+- ⚡ Fun fact **Code is like humor; when you have to explain it, it’s bad.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/navneet38644054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navneet38644054" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/navneet-agrawal-7ba14424a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navneet-agrawal-7ba14424a/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20511612/navneet-agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20511612/navneet-agarwal" height="30" width="40" /></a>
+<a href="https://instagram.com/_navneetagrawal15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_navneetagrawal15" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@agrawalnavneet91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@agrawalnavneet91" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/_agarwalnavneet15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/_agarwalnavneet15/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/agrawalna1gaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="agrawalna1gaz" height="30" width="40" /></a>
 </p>
@@ -29,5 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agrawalnavneet&show_icons=true&locale=en" alt="agrawalnavneet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalnavneet&" alt="agrawalnavneet" /></p>
-
-
