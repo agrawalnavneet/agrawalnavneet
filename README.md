@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **MERN Stack and Data Structure and Algorithms**
 
 
-- 👨‍💻 All of my projects are available at [https://navneetagarwalp.netlify.app/](https://navneetagarwalp.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://navneetagarwalp.netlify.app/](https://navneetagarwalp.netlify.app/](https://navneet-portfolio-kappa.vercel.app/))
 
 - 💬 Ask me about **React, Node.js, JavaScript, Java, and DSA**
 
