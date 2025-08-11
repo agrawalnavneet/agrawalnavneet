@@ -19,7 +19,23 @@
 - 📫 How to reach me **agrawalnavneet960@gmail.com**
 
 - ⚡ Fun fact **Code is like humor; when you have to explain it, it’s bad.**
+
+
+
+
 <hr style="border: none; height: 1px; background-color: grey;">
+
+## 🌐 Live Projects
+
+- ✈️ [Aviatours Australia](https://www.aviatours.com.au) – Tour booking platform with admin/user panels  
+- 🛒 [Flipzonto](https://flipzonto.com) – Custom eCommerce store with product management  
+- 📚 [Rahul Classroom](https://rahulclassroom.in) – Education portal with teacher-student access and content control  
+- 💼 [FreelancerPro](https://freelancerpro.in) – My portfolio & client service platform  
+- 📰 [Wheather Application](wheather-app-ecru-three.vercel.app) – A sleek React weather app delivering real-time forecasts for any city via OpenWeatherMap API.
+
+
+
+
 
 <h3 align="left">📫 Connect with me:</h3>
 
